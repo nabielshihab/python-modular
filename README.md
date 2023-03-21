@@ -2,7 +2,7 @@
 
 Simply put, **module** is a file containing *python code*. for example, `example.py` is a module named "example". Modules can contain ***functions, classes, or variables.*** As mentioned earlier, making modules makes it easier to *debug* if any *bugs* arise in the future and also make *main scripts / programs* become neater.
 
-<img src="figures/library_module_function.png" width="700"/>
+<img src="figures/library_module_program.png" width="700"/>
 
 Imagine if you make 100 programs in which you have to plot the epicenter of an earthquake. then you create a plot_epicenter function as below in each of the 100 programs.
 
